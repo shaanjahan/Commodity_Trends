@@ -11,7 +11,7 @@ from fredapi import Fred
 plt.style.use('ggplot')
 plt.style.use('dark_background')
 
-# Initialize FRED API (replace with your actual key)
+# Initialize FRED API 
 fred = Fred(api_key='-------------------')
 
 # -------------------- Tools For Main Functions --------------------
